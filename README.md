@@ -1,1 +1,1 @@
-# [![](https://cdn.donmai.us/original/8d/ac/__shera_l_greenwood_rem_galeu_and_diablo_isekai_maou_to_shoukan_shoujo_no_dorei_majutsu__8dac7c7f974b2723dc93a5001ba6a6e0.gif)](https://danbooru.donmai.us/posts/6104243?q=d-art)
+# [![](https://cdn.donmai.us/original/60/ad/__hoshino_and_hoshino_blue_archive_drawn_by_tenuwi__60ad8f47c896460702896873aaae7941.gif)](https://danbooru.donmai.us/posts/6104243?q=d-art)
