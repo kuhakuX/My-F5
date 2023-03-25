@@ -7,3 +7,5 @@ while keyboard.is_pressed('x')==False:
     pyautogui.click(x=1350, y=980)
     pyautogui.click(x=1000, y=700)
     pyautogui.click(x=1000, y=600)
+    pyautogui.click(x=1000, y=920)
+    pyautogui.click(x=1000, y=820)
