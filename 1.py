@@ -10,3 +10,5 @@ while keyboard.is_pressed('x')==False:
     pyautogui.click(x=1000, y=920)
     pyautogui.click(x=1000, y=820)
     pyautogui.click(x=1000, y=420)
+    pyautogui.click(x=1000, y=400)
+    pyautogui.click(x=1000, y=620)
